@@ -9,5 +9,4 @@ This is min heap based priority class the top element is minimum.
 
 ### Rest methods are private and abstracted.
 
-Problem solved
-<a hreaf="https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1#">
+[Problem solved]("https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1#")
